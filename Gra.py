@@ -1,6 +1,6 @@
 from random import randint
 
-number = randint(1, 101)
+number = randint(0, 101)
 
 while True:
 
